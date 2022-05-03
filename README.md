@@ -23,7 +23,7 @@ The school board of the City School District has requested an analysis of the pe
   
 ### Thomas High School compared with other schools
 - Note that the math and reading scores for THS ninth-grade displays "NaN" as the  value representing that their scores were removed and replaced.
--  
+  
 ![Math_Scores](https://user-images.githubusercontent.com/102122063/166401565-25ce858e-14a9-423f-ace0-302dec1276d1.PNG) ![Readsing_Scores](https://user-images.githubusercontent.com/102122063/166401573-58192f87-caa1-48c4-ade8-4c2057899592.PNG)
  
  **Images 6 & 7:** *Math and Reading scores of each school in the district.*
