@@ -21,8 +21,11 @@ The school board of the City School District has requested an analysis of the pe
   ![School Summary no THS](https://user-images.githubusercontent.com/102122063/166400170-e7ee3631-79ac-415b-8daf-193c9070b77b.PNG)
   **Image 5:** *School Summary DataFRame without THS ninth-grade scores.*
   
-### Thomas High School Summary (*after removing ninth graders' math and reading scores*)
--
--
--
+### Thomas High School compared with other schools
+-	The overall passing percentages of Thomas High School decreased by 0.11%
+- The average scores of Thomas High School for math and reading increased by 0.06
+-	School rankings are unchanged. Thomas High School is still the second best performing school in the district with an overall passing rate of 90.63% among their tenth   through twelfth graders.
+ - Scores by school spending are not affected by replacing the 9th grade scores, and neither are the scores by school size or scores by school type.
+
 ## Summary
+To conclude, when reading and math scores are replaced with NaNs for the 9th grade students at Thomas High School, there are 4 changes to the school district analysis. The four changes are 1) the percentage of students in the entire district that are passing math, reading, and overall is reduced by a small percentage, 2) the percentage of students passing math, reading, and overall at Thomas High School is severely reduced, 3) the performance ranking of Thomas High School compared to the other schools in the district drops into the lower half with the poorer performing schools, and 4) Thomas High School's average math and reading scores for 9th graders is unavailable for comparison with the other school's 9th graders.
