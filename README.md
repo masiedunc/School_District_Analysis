@@ -25,11 +25,11 @@ The school board of the City School District has requested an analysis of the pe
 -	The overall passing percentages of Thomas High School decreased by 0.11%
 - The average scores of Thomas High School for math and reading increased by 0.06
 ![Math_Scores](https://user-images.githubusercontent.com/102122063/166401565-25ce858e-14a9-423f-ace0-302dec1276d1.PNG) ![Readsing_Scores](https://user-images.githubusercontent.com/102122063/166401573-58192f87-caa1-48c4-ade8-4c2057899592.PNG)
-
+  **Images 6 & 7:** *Math and Reading scores of each school in the district.*
 
 -	When we dive deeper into the analysis, we foudn that the school rankings are unchanged. Thomas High School (THS) remained the second ranked of top performing schools   in the district. 
   ![Top_5](https://user-images.githubusercontent.com/102122063/166401477-44f3c0d2-46b7-4da9-8024-d73eb8f15705.PNG)
-  **Image 6:** *Top 5 highest performing schools in the district.*
+  **Image 8:** *Top 5 highest performing schools in the district.*
   
 - There were no significant findings regarding school spending, school size or school type. The scores did not seem to changed due to removing the THS ninth-grade scores.
 
