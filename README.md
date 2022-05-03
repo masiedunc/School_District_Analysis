@@ -24,8 +24,14 @@ The school board of the City School District has requested an analysis of the pe
 ### Thomas High School compared with other schools
 -	The overall passing percentages of Thomas High School decreased by 0.11%
 - The average scores of Thomas High School for math and reading increased by 0.06
--	School rankings are unchanged. Thomas High School is still the second best performing school in the district with an overall passing rate of 90.63% among their tenth   through twelfth graders.
- - Scores by school spending are not affected by replacing the 9th grade scores, and neither are the scores by school size or scores by school type.
+![Math_Scores](https://user-images.githubusercontent.com/102122063/166401565-25ce858e-14a9-423f-ace0-302dec1276d1.PNG) ![Readsing_Scores](https://user-images.githubusercontent.com/102122063/166401573-58192f87-caa1-48c4-ade8-4c2057899592.PNG)
+
+
+-	When we dive deeper into the analysis, we foudn that the school rankings are unchanged. Thomas High School (THS) remained the second ranked of top performing schools   in the district. 
+  ![Top_5](https://user-images.githubusercontent.com/102122063/166401477-44f3c0d2-46b7-4da9-8024-d73eb8f15705.PNG)
+  **Image 6:** *Top 5 highest performing schools in the district.*
+  
+- There were no significant findings regarding school spending, school size or school type. The scores did not seem to changed due to removing the THS ninth-grade scores.
 
 ## Summary
 To conclude, when reading and math scores are replaced with NaNs for the 9th grade students at Thomas High School, there are 4 changes to the school district analysis. The four changes are 1) the percentage of students in the entire district that are passing math, reading, and overall is reduced by a small percentage, 2) the percentage of students passing math, reading, and overall at Thomas High School is severely reduced, 3) the performance ranking of Thomas High School compared to the other schools in the district drops into the lower half with the poorer performing schools, and 4) Thomas High School's average math and reading scores for 9th graders is unavailable for comparison with the other school's 9th graders.
