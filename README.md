@@ -13,9 +13,14 @@ The school board of the City School District has requested an analysis of the pe
   **Image 2:** *The district summary results after setting Thomas High School 9th grade scores removed.*
 
 ### School Summary
--
--
--
+- If we look specifically at the school itself to compare the original analysis results with the re-analyzed results after removing the THS ninth-grade scores, you can see a significant change in values. 
+  - The percentage rates for students passing math, passing reading, and overall passing decreased by about 30%. You will find the School Summary with the THS ninth-grade scores in Image 3. Followed by the School Summary with the THS ninth-grade scores removed in Image 4. 
+  ![School Summary](https://user-images.githubusercontent.com/102122063/166400153-a87c7c83-0e7a-4676-bb71-ad72359272b1.PNG)
+  **Image 4:** *School Summary DataFrame complete with THS ninth-grade scores*
+  
+  ![School Summary no THS](https://user-images.githubusercontent.com/102122063/166400170-e7ee3631-79ac-415b-8daf-193c9070b77b.PNG)
+  **Image 5:** *School Summary DataFRame without THS ninth-grade scores.*
+  
 ### Thomas High School Summary (*after removing ninth graders' math and reading scores*)
 -
 -
